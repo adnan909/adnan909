@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @adnan909
 - 👀 I’m interested in mobile development
-- 🌱 I’m currently learning react native, nodejs, graphql, apollo
-- 💞️ I’m looking to collaborate on improving my skills by working on open source projects
+- 🌱 I’m currently learning react native, nodejs, graphql, apollo, microservices(SOA)
+- 💞️ I’m looking to collaborate on open source projects and improving my skills
 - 📫 You can reach me at m_adnan_93@yahoo.com
 
 <!---
