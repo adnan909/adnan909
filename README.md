@@ -6,8 +6,8 @@
    Excited about Data Science, Artificial Intelligence and always eager to learn and grow.
 
  🔧 Skills<br/>
-   Languages: React, React Native, NodeJs, Graphql, C#.<br/>
-   Frameworks & Libraries: React, Angular, NestJs, Express, Apollo, Jest.<br/>
+   Languages: Javascript,C++, C#.<br/>
+   Frameworks & Libraries: React, React native, Angular, NestJs, Graphql, Express, Apollo, Jest.<br/>
    Tools & Technologies: Postgres, MongoDb, Docker, AWS, Microservices, Doppler, Railway, Digitalocean, GCP.<br/>
    Soft Skills: Communication, teamwork, problem-solving, leadership, ownership, decision making, critical thinking.<br/>
 
